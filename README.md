@@ -1,1 +1,1 @@
-# A little old project that brings random jokes
+# A little and old project that brings random jokes
